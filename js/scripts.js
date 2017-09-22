@@ -3,7 +3,7 @@
 var vowel = ["a","e","i","o","u"]
 
 var consonantCheck = function(input) {
-  alert(input.charAt(1));
+//  alert(input.charAt(1));
 }
 
 var isNotALetter = function(input) {
